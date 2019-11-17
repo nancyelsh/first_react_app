@@ -54,7 +54,7 @@ export default class App extends Component {
                 uri:
                   "http://goodbettrbest.com/wp-content/uploads/2018/05/Barmej-Team-1440x1080.jpeg"
               }}
-              style={{ height: 400, width: 585, flex: 1, borderRadius: 20 }}
+              style={{ height: 350, width: 585, flex: 1, borderRadius: 20 }}
             />
           </CardItem>
           <CardItem>
